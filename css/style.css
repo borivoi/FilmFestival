@@ -1,0 +1,63 @@
+
+body {
+  padding-top: 56px;
+}
+
+header{
+  background:
+}
+
+h1,h5{
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+#demo{
+  text-align: center;
+  color: white;
+  font-family: Lato, Arial, Gadget, sans-serif;
+}
+
+#conti{
+  margin-top: 150px;
+}
+
+h2{
+  margin-top: 150px;
+  text-align: center;
+  color: black;
+  text-shadow: null;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h3
+{
+  text-align: center;
+  color: black;
+  text-shadow: null;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.mapouter {
+  position: relative;
+  text-align: right;
+  height: 500px;
+  width: 1200px;
+}
+
+.gmap_canvas {
+  overflow: hidden;
+  background: none !important;
+  height: 500px;
+  width: 1200px;
+}
+
+footer{
+  margin-top: 80px;
+}
+
+button{
+  margin-left: 70px;
+}
